@@ -1,4 +1,4 @@
-````markdown
+
 # 🌐 SYEAM
 
 A modern personal portfolio website for **M D Yousuf**, designed to showcase projects, technical skills, experience, interests, and professional work through a responsive and interactive web interface.
